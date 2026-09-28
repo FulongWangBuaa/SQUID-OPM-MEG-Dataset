@@ -1,5 +1,3 @@
-# SQUID-OPM-MEG-Dataset
-
 # Analysis Code for the Paired SQUID-MEG / OPM-MEG Dataset
 
 Analysis pipeline for a paired magnetoencephalography (MEG) dataset in which the same
